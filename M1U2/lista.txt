@@ -7,3 +7,6 @@ lapices
 cuadernos
 cartuchera
 -------------
+hola
+palabras
+nuevas
