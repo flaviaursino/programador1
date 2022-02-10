@@ -2,3 +2,8 @@ galletitas
 manzanas
 bananas
 naranjas
+-------
+lapices
+cuadernos
+cartuchera
+-------------
